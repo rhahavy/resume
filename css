@@ -11,3 +11,7 @@ h2 {
   border-bottom: 1px solid #eee;
   padding-bottom: 4px;
 }
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
